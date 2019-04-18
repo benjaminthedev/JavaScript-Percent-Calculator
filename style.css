@@ -1,0 +1,14 @@
+.container {
+  
+  background: green;
+  flex-direction: column;   
+}
+.wrap {
+    align-content: center;
+    width: 960px;
+    margin: 0 auto;
+    background: yellow;
+}
+.text-center{
+    text-align: center;    
+}
